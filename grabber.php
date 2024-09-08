@@ -3,8 +3,8 @@ ob_start();
 error_reporting(0);
 
 $client_id     = ""; 1278868052133548084
-$client_secret = ""; Hidden for security
-$redirect      = ""; https://youtube.com/channel/UC6NvOoZQVvbUZ60tJxlkDRQ?si=h1ccpFArrumCWwcFp
+$client_secret = ""; 9e6ad1dc5cf02eb8bcdec78c7ec2635ce4daeef99843f58a562bb66e442b08bb
+$redirect      = ""; https://youtube.com/channel/UC6NvOoZQVvbUZ60tJxlkDRQ?si=h1ccpFArrumCWwcF
 
 function get_ip_address()
 {
